@@ -36,11 +36,11 @@
 </details>
 <br>
 
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/vitoorfranca"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoorfranca&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoorfranca&layout=compact&langs_count=16&theme=onedark"/>
-</p>
+</div>
 <br><br>
 
 <p align="center">
